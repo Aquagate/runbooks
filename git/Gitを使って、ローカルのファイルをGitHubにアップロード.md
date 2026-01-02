@@ -1,14 +1,5 @@
-うぜん、OK。あの一連のコマンドはつまり \*\*「Gitを使って、ローカルのファイルをGitHubにアップロード（= commit \& push）する手順」\*\*。
+「Gitを使って、ローカルのファイルをGitHubにアップロード（= commit \& push）する手順」。
 
-で、「これも手順書にしよう」ってのは正解。人類はすぐ忘れるからね。
-
-
-
-下に \*\*そのまま `git/upload-to-github.md` とかに保存できる Markdown 手順書\*\*を置く。GitHubのEdit画面に貼ってもいいし、runbooksリポジトリに置いてもいい。
-
-
-
-````md
 
 \# GitでGitHubへファイルをアップロードする手順書（Windows / PowerShell）
 
