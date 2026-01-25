@@ -6,6 +6,7 @@
 
 ## GitHub
 - [ローカルWebアプリをGitHub Pagesで公開してスマホから見る](github/publish-local-web-app-to-github-pages.md)
+- [Issue → Branch → PR（＋自動化オプション）](github/issue-branch-pr.md)
 
 ## Node
 
