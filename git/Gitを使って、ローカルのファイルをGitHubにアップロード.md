@@ -285,8 +285,9 @@ git commit -m "Add/update files"
 git push
 
 ```
-
-
+こんな感じになったら勝ち。
+Enumerating objects: 20, done.
+Counting objects: 100% (20/20), done.
 
 ---
 
